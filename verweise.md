@@ -1,6 +1,5 @@
-#Anwendung
-der CAT- Schnittstelle mit Beispielen für RaspberryPi, PC und ESP32.
-<hr/>
+#Anwendung der CAT- Schnittstelle mit Beispielen für RaspberryPi, PC und ESP32.
+<hr>
 
 <table width="100%" cellpadding="4" cellspacing="0">
 	<col width="85*"/>
