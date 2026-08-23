@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html>
-
-<body lang="de-DE" link="#000080" vlink="#800000" dir="ltr"><h1 class="western" align="center">
-<font face="MathJax_Typewriter, monospace"><u>Links zur Präsentation</u></font></h1>
-<h1 class="western" align="center"><font face="MathJax_Typewriter, monospace"><u>Anwendung
-der CAT- Schnittstelle mit Beispielen für RaspberryPi, PC und ESP32.</u></font></h1>
+#Anwendung
+der CAT- Schnittstelle mit Beispielen für RaspberryPi, PC und ESP32.
 <hr/>
 
 <table width="100%" cellpadding="4" cellspacing="0">
